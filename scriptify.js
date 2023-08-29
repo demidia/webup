@@ -2,16 +2,6 @@
 $(function() {
     "use strict";
 	
-	
-	
-  $(document).ready(function () {
-		 $("#respMenu").horizontalMenu({
-			 resizeWidth: '1024', // Set the same in Media query
-			 animationSpeed: 'fast', //slow, medium, fast
-			 accoridonExpAll: false //Expands all the accordion menu on click
-		 });
-	 });
-
 	 
 
 // === toggle-menu js
